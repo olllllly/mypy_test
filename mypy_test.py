@@ -15,7 +15,7 @@ class BadCase:
     def sub(
         self,
         val: float
-    ) -> None:
+    ) -> float:
         self._b += val
 
 
